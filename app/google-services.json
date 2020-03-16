@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "214902992188",
+    "firebase_url": "https://self-2de53.firebaseio.com",
+    "project_id": "self-2de53",
+    "storage_bucket": "self-2de53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214902992188:android:58487e4ef9c8749e4e0239",
+        "android_client_info": {
+          "package_name": "com.example.lowe_self_checkout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214902992188-n5h7ponof8cr1hnijdu4ruegvrdcnqfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvp7xQ7Bh8i0yTFUCXhPd4y0E--Y9NBG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214902992188-n5h7ponof8cr1hnijdu4ruegvrdcnqfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
